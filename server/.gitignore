@@ -1,0 +1,5 @@
+#Todos os arquivos da pasta nde_modules
+node_modules
+uploads/*
+!uploads/.gitkeep
+*.sqlite
