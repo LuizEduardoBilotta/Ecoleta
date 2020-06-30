@@ -122,7 +122,7 @@ $ expo start
 **OBS:** Caso não inicie a aplicação automaticamente em seu navegador, acesse manualmente digitando na barra de endereços: `localhost:19002`
 
 ## :bookmark_tabs: Licença
-Este projeto está licenciado nos termos da licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+Este projeto está licenciado nos termos da licença MIT. Veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
 
 ## :jigsaw: Contato
 - :mailbox_with_mail: E-mail: <a href="mailto:luizeduardobilotta@gmail.com">luizeduardobilotta@gmail.com</a>
